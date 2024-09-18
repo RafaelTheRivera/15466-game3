@@ -37,7 +37,7 @@ Load< Scene > playarea_scene(LoadTagDefault, []() -> Scene const * {
 });
 
 Load< Sound::Sample > bgm_sample(LoadTagDefault, []() -> Sound::Sample const * {
-	return new Sound::Sample(data_path("bgm.wav"));
+	return new Sound::Sample(data_path("bgm.opus"));
 });
 
 PlayMode::PlayMode() : scene(*playarea_scene) {
