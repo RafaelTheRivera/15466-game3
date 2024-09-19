@@ -2,7 +2,8 @@
 
 Author: Rafael Rivera
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design:
+Dodging game: since you can't see anything behind you, you have to rely on sound to notice when something is going to hit you from behind.
 
 Screen Shot:
 
@@ -10,6 +11,7 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+WASD movement, avoid the spheres coming towards you!
+
 
 This game was built with [NEST](NEST.md).
